@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "cleanHtml clean-canvas-dheeraj",
+        "command": "clean-canvas-dheeraj:cleanHtml"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "clean-canvas-dheeraj",
+          "submenu": [
+            {
+              "label": "cleanHtml",
+              "command": "clean-canvas-dheeraj:cleanHtml"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
