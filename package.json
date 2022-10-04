@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "clean-canvas-dheeraj:cleanHtml"
   },
-  "repository": "https://github.com/atom/clean-canvas-dheeraj",
+  "repository": "https://github.com/Dheeraj0650/clean-canvas-dheeraj",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
